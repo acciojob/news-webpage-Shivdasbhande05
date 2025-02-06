@@ -16,3 +16,6 @@ img{
 	height : 200px;
 	width : 200px;
 }
+.pictorial-news-section , .latest-news-section{
+	text-align : center;
+}
